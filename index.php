@@ -11,7 +11,7 @@
 		, [
 			'域名'		=>	'lv7.cc'
 			, '描述'		=>	'仅供展示'
-			, '注册商'	=>	'阿里云'
+			, '注册商'	=>	'腾讯云'
 			, '价格'		=>  无
 		]
 	];
@@ -145,7 +145,7 @@
 					</table>
 				</div>
 				<div class="profile-card-ctr">
-					<a class="profile-card__button button--orange" href="http://lsp1.cn" target="_blank">返回主站</a>
+					<a class="profile-card__button button--orange" href="https://lsp1.cn" target="_blank">返回主站</a>
 				</div>
 			</div>
 
